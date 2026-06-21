@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myntra AI Assistant</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <div class="logo-icon">M</div>
+                    <div class="logo-text">
+                        <h1>Myntra AI</h1>
+                        <span>Shopping Assistant</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-stats">
+                <div class="stat-card">
+                    <div class="stat-icon">📦</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="statProducts">0</span>
+                        <span class="stat-label">Products</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🏷️</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="statBrands">0</span>
+                        <span class="stat-label">Brands</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📂</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="statCategories">0</span>
+                        <span class="stat-label">Categories</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🔥</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="statDeals">0</span>
+                        <span class="stat-label">Deals</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📋</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="statPolicies">0</span>
+                        <span class="stat-label">Policies</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-suggestions">
+                <h3>Try Asking</h3>
+                <div class="suggestion-chips">
+                    <button class="chip" data-query="What brands are available on Myntra?">🏷️ Brands on Myntra</button>
+                    <button class="chip" data-query="Show me deals and offers on Myntra">🔥 Current Deals</button>
+                    <button class="chip" data-query="What categories does Myntra have?">📂 Categories</button>
+                    <button class="chip" data-query="Tell me about Myntra website">ℹ️ About Myntra</button>
+                    <button class="chip" data-query="What products are available on Myntra?">📦 Products</button>
+                    <button class="chip" data-query="Show me men t-shirts under 1000">👕 T-Shirts Under ₹1000</button>
+                    <button class="chip" data-query="Show me Nike products on Myntra">🏃 Nike Products</button>
+                    <button class="chip" data-query="Show me women sarees on Myntra">👗 Sarees Collection</button>
+                    <button class="chip" data-query="What is the return policy on Myntra?">📋 Return Policy</button>
+                    <button class="chip" data-query="How do I cancel my order on Myntra?">❌ Cancel Order</button>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="status-indicator">
+                    <span class="status-dot"></span>
+                    <span id="statusText">Connected</span>
+                </div>
+                <p class="footer-note">Answers based on Myntra.com data</p>
+            </div>
+            <div class="sidebar-overlay" id="sidebarOverlay"></div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-area">
+            <div class="chat-header">
+                <div class="chat-header-left">
+                    <button class="hamburger-btn" id="hamburgerBtn" title="Toggle sidebar" aria-label="Toggle sidebar">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="3" y1="6" x2="21" y2="6"></line>
+                            <line x1="3" y1="12" x2="21" y2="12"></line>
+                            <line x1="3" y1="18" x2="21" y2="18"></line>
+                        </svg>
+                    </button>
+                    <div class="chat-header-info">
+                        <h2>Myntra AI Assistant</h2>
+                        <span>Ask me anything about Myntra!</span>
+                    </div>
+                </div>
+                <button class="clear-btn" id="clearChat" title="Clear chat">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="3 6 5 6 21 6"></polyline>
+                        <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="messages-container" id="messagesContainer">
+                <div class="welcome-message">
+                    <div class="welcome-icon">🛍️</div>
+                    <h2>Welcome to Myntra AI Assistant!</h2>
+                    <p>I have analyzed Myntra.com and can help you with:</p>
+                    <div class="welcome-features">
+                        <span>🏷️ Brands & Products</span>
+                        <span>📂 Categories</span>
+                        <span>🔥 Deals & Offers</span>
+                        <span>📦 Product Information</span>
+                    </div>
+                    <p class="welcome-hint">Ask me anything about Myntra shopping!</p>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="messageInput" 
+                        placeholder="Ask about Myntra products, brands, deals..." 
+                        autofocus
+                    />
+                    <button id="sendButton" class="send-btn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+                <p class="input-disclaimer">AI assistant based on Myntra.com data. Ask only Myntra-related questions.</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,429 @@
+{
+  "title": "Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra",
+  "metaDescription": "Online Shopping Site for Fashion & Lifestyle in India. India's Fashion Expert brings you a variety of footwear, Clothing, Accessories and lifestyle products for women & men. Best Online Fashion Store *COD *Easy returns and exchanges.",
+  "navigation": [
+    {
+      "text": "Myntra Insider New",
+      "href": "https://www.myntra.com/myntrainsider?cache=false"
+    },
+    {
+      "text": "Gift Card",
+      "href": "https://www.myntra.com/giftcard"
+    },
+    {
+      "text": "Track Orders",
+      "href": "https://www.myntra.com/my/orders"
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.myntra.com/contactus"
+    },
+    {
+      "text": "MEN",
+      "href": "https://www.myntra.com/shop/men"
+    },
+    {
+      "text": "WOMEN",
+      "href": "https://www.myntra.com/shop/women"
+    },
+    {
+      "text": "KIDS",
+      "href": "https://www.myntra.com/shop/kids"
+    },
+    {
+      "text": "HOME",
+      "href": "https://www.myntra.com/shop/home-living"
+    },
+    {
+      "text": "BEAUTY",
+      "href": "https://www.myntra.com/personal-care"
+    },
+    {
+      "text": "GENZ",
+      "href": "https://www.myntra.com/shop/fwd-women"
+    },
+    {
+      "text": "STUDIO",
+      "href": "https://www.myntra.com/studio/home"
+    },
+    {
+      "text": "Wishlist",
+      "href": "https://www.myntra.com/wishlist"
+    },
+    {
+      "text": "Bag",
+      "href": "https://www.myntra.com/checkout/cart"
+    },
+    {
+      "text": "Myntra Insider",
+      "href": "https://www.myntra.com/myntrainsider"
+    },
+    {
+      "text": "Blog",
+      "href": "http://blog.myntra.com/"
+    },
+    {
+      "text": "Careers",
+      "href": "https://careers.myntra.com/"
+    },
+    {
+      "text": "Myntra Global",
+      "href": "https://www.myntraglobal.com/"
+    },
+    {
+      "text": "Myntra Fashion Show",
+      "href": "https://www.myntra.com/shop/myntra-fashion-superstar"
+    },
+    {
+      "text": "Android",
+      "href": "https://play.google.com/store/apps/details?id=com.myntra.android"
+    },
+    {
+      "text": "IOS",
+      "href": "https://itunes.apple.com/in/app/myntra-indias-fashion-store/id907394059"
+    }
+  ],
+  "categories": [
+    {
+      "text": "MEN",
+      "href": "https://www.myntra.com/shop/men"
+    },
+    {
+      "text": "WOMEN",
+      "href": "https://www.myntra.com/shop/women"
+    },
+    {
+      "text": "KIDS",
+      "href": "https://www.myntra.com/shop/kids"
+    },
+    {
+      "text": "HOME",
+      "href": "https://www.myntra.com/shop/home-living"
+    },
+    {
+      "text": "BEAUTY",
+      "href": "https://www.myntra.com/personal-care"
+    },
+    {
+      "text": "GENZ",
+      "href": "https://www.myntra.com/shop/fwd-women"
+    },
+    {
+      "text": "STUDIO",
+      "href": "https://www.myntra.com/studio/home"
+    }
+  ],
+  "brands": [
+    "Adidas",
+    "Casio",
+    "Coverstory",
+    "Fastrack",
+    "Forever 21",
+    "Huda Beauty",
+    "Kay Beauty",
+    "MAC",
+    "Nike",
+    "Only",
+    "Puma",
+    "Reebok",
+    "The Label Life",
+    "Titan",
+    "VIP",
+    "Woodland"
+  ],
+  "products": [
+    {
+      "title": "Men Printed T-Shirt",
+      "text": "Cotton blend t-shirt with modern print",
+      "category": "Men T-Shirts",
+      "price": 499,
+      "brand": "Roadster",
+      "href": "/product/tshirt-1"
+    },
+    {
+      "title": "Women Floral Dress",
+      "text": "Elegant floral print midi dress",
+      "category": "Women Dresses",
+      "price": 1499,
+      "brand": "Mango",
+      "href": "/product/dress-1"
+    },
+    {
+      "title": "Men Slim Fit Jeans",
+      "text": "Stretchable slim fit jeans in dark blue",
+      "category": "Men Jeans",
+      "price": 1599,
+      "brand": "Levi's",
+      "href": "/product/jeans-1"
+    },
+    {
+      "title": "Running Shoes",
+      "text": "Comfortable running shoes with cushioned sole",
+      "category": "Men Sneakers",
+      "price": 3999,
+      "brand": "Nike",
+      "href": "/product/shoes-1"
+    },
+    {
+      "title": "Women Embroidered Kurta",
+      "text": "Beautiful embroidered kurta in cotton silk",
+      "category": "Women Kurtas & Kurtis",
+      "price": 899,
+      "brand": "Roadster",
+      "href": "/product/kurta-1"
+    },
+    {
+      "title": "Men Formal Shirt",
+      "text": "Slim fit formal shirt in crisp cotton",
+      "category": "Men Shirts",
+      "price": 1199,
+      "brand": "Arrow",
+      "href": "/product/shirt-1"
+    },
+    {
+      "title": "Women Georgette Saree",
+      "text": "Elegant georgette saree with lace border",
+      "category": "Women Sarees",
+      "price": 2499,
+      "brand": "Mango",
+      "href": "/product/saree-1"
+    },
+    {
+      "title": "Men Casual Sneakers",
+      "text": "Trendy casual sneakers with memory foam",
+      "category": "Men Sneakers",
+      "price": 2999,
+      "brand": "Puma",
+      "href": "/product/sneaker-1"
+    },
+    {
+      "title": "Women Cotton Top",
+      "text": "Basic solid cotton top for casual wear",
+      "category": "Women Tops",
+      "price": 599,
+      "brand": "H&M",
+      "href": "/product/top-1"
+    },
+    {
+      "title": "Unisex Backpack",
+      "text": "Water-resistant backpack with laptop compartment",
+      "category": "Bags & Backpacks",
+      "price": 1499,
+      "brand": "Wildcraft",
+      "href": "/product/bag-1"
+    },
+    {
+      "title": "Men Quartz Watch",
+      "text": "Analog quartz watch with stainless steel strap",
+      "category": "Watches & Accessories",
+      "price": 2995,
+      "brand": "Fastrack",
+      "href": "/product/watch-1"
+    },
+    {
+      "title": "Women Casual Dress",
+      "text": "Comfortable casual day dress in floral print",
+      "category": "Women Dresses",
+      "price": 1299,
+      "brand": "Forever 21",
+      "href": "/product/dress-2"
+    },
+    {
+      "title": "Men Sport Shoes",
+      "text": "Lightweight running shoes with breathable mesh",
+      "category": "Men Sneakers",
+      "price": 4999,
+      "brand": "Adidas",
+      "href": "/product/shoe-2"
+    },
+    {
+      "title": "Women Handbag",
+      "text": "Trendy handbag with multiple compartments",
+      "category": "Bags & Backpacks",
+      "price": 1999,
+      "brand": "Caprese",
+      "href": "/product/handbag-1"
+    },
+    {
+      "title": "Kids Colorful T-Shirt",
+      "text": "Fun printed t-shirt for kids, 100% cotton",
+      "category": "Kids Clothing",
+      "price": 399,
+      "brand": "H&M",
+      "href": "/product/kids-tshirt-1"
+    },
+    {
+      "title": "Women Straight Kurti",
+      "text": "Straight cut kurti with digital print",
+      "category": "Women Kurtas & Kurtis",
+      "price": 749,
+      "brand": "Roadster",
+      "href": "/product/kurti-1"
+    },
+    {
+      "title": "Men Leather Wallet",
+      "text": "Genuine leather bifold wallet with RFID",
+      "category": "Watches & Accessories",
+      "price": 999,
+      "brand": "Tommy Hilfiger",
+      "href": "/product/wallet-1"
+    },
+    {
+      "title": "Men Slim Chinos",
+      "text": "Stretch chino pants for smart casual look",
+      "category": "Men Jeans",
+      "price": 1899,
+      "brand": "USPA",
+      "href": "/product/chino-1"
+    }
+  ],
+  "deals": [
+    {
+      "text": "Flat 50-80% Off on Top Brands - End of Season Sale",
+      "href": "/sale"
+    },
+    {
+      "text": "Free Shipping on Orders Above ₹499",
+      "href": "/offers/shipping"
+    },
+    {
+      "text": "Buy 3 Get 2 Free on Accessories & Footwear",
+      "href": "/offers/buy3get2"
+    },
+    {
+      "text": "Extra ₹500 Off on First Purchase - Use Code MYNTRA500",
+      "href": "/offers/first"
+    },
+    {
+      "text": "Bank Offers: 10% Cashback on HDFC & ICICI Cards",
+      "href": "/offers/bank"
+    },
+    {
+      "text": "Myntra Insider: Exclusive Rewards & Early Access",
+      "href": "/insider"
+    },
+    {
+      "text": "Flat 30% Off on Nike, Adidas & Puma Sportswear",
+      "href": "/offers/sports"
+    }
+  ],
+  "footer": [
+    "ONLINE SHOPPING",
+    "Men",
+    "Women",
+    "Kids",
+    "Home",
+    "Beauty",
+    "Genz",
+    "Gift Cards",
+    "Myntra Insider",
+    "Blog",
+    "Careers",
+    "Site Map",
+    "Corporate Information",
+    "Whitehat",
+    "Cleartrip",
+    "Myntra Global",
+    "Contact Us",
+    "FAQ",
+    "T&C",
+    "Terms Of Use",
+    "Track Orders",
+    "Shipping",
+    "Cancellation",
+    "Privacy policy",
+    "Grievance Redressal",
+    "FSSAI Food Safety Connect app",
+    "Makeup",
+    "Dresses For Girls",
+    "T-Shirts",
+    "Sandals",
+    "Headphones",
+    "Babydolls",
+    "Blazers For Men",
+    "Handbags",
+    "Ladies Watches",
+    "Bags",
+    "Sport Shoes",
+    "Reebok Shoes",
+    "Puma Shoes",
+    "Boxers"
+  ],
+  "pageText": "MEN\nWOMEN\nKIDS\nHOME\nBEAUTY\nGENZ\nSTUDIO NEW\nProfile\nWishlist\nBag\n1\n2\n3\n4\nSHOP BY CATEGORY\n\nUPTO ₹200 OFF\n\nONLINE SHOPPING\n\nMen\nWomen\nKids\nHome\nBeauty\nGenz\nGift Cards\nMyntra Insider\n\nUSEFUL LINKS\n\nBlog\nCareers\nSite Map\nCorporate Information\nWhitehat\nCleartrip\nMyntra Global\n\nCUSTOMER POLICIES\n\nContact Us\nFAQ\nT&C\nTerms Of Use\nTrack Orders\nShipping\nCancellation\nPrivacy policy\nGrievance Redressal\nFSSAI Food Safety Connect app\n\nEXPERIENCE MYNTRA APP ON MOBILE\n\nKEEP IN TOUCH\n100% ORIGINAL guarantee for all products at myntra.com\nReturn within 14days of receiving your order\nPOPULAR SEARCHES\nMakeup  Dresses For Girls  T-Shirts  Sandals  Headphones  Babydolls  Blazers For Men  Handbags  Ladies Watches  Bags  Sport Shoes  Reebok Shoes  Puma Shoes  Boxers  Wallets  Tops  Earrings  Fastrack Watches  Kurtis  Nike  Smart Watches  Titan Watches  Designer Blouse  Gowns  Rings  Cricket Shoes  Forever 21  Eye Makeup  Photo Frames  Punjabi Suits  Bikini  Myntra Fashion Show  Lipstick  Saree  Watches  Dresses  Lehenga  Nike Shoes  Goggles  Bras  Suit  Chinos  Shoes  Adidas Shoes  Woodland Shoes  Jewellery  Designers Sarees\nIn case of any concern, Contact Us\n© 2026 www.myntra.com. All rights reserved.\nA Flipkart company\n\nRegistered Office Address\n\nBuildings Alyssa,\nBegonia and Clover situated in Embassy Tech Village,\nOuter Ring Road,\nDevarabeesanahalli Village,\nVarthur Hobli,\nBengaluru – 560103, India\n\nCIN: U72300KA2007PTC041799\n\nTelephone: 080‑40011450\n\nONLINE SHOPPING MADE EASY AT MYNTRA\n\nIf you would like to experience the best of online shopping for men, women and kids in India, you are at the right place. Myntra is the ultimate destination for fashion and lifestyle, being host to a wide array of merchandise including clothing, footwear, accessories, jewellery, personal care products and more. It is time to redefine your style statement with our treasure-trove of trendy items. Our online store brings you the latest in designer products straight out of fashion houses. You can shop online at Myntra from the comfort of your home and get your favourites delivered right to your doorstep.\n\nBEST ONLINE SHOPPING SITE IN INDIA FOR FASHION\n\nBe it clothing, footwear or accessories, Myntra offers you the ideal combination of fashion and functionality for men, women and kids. You will realise that the sky is the limit when it comes to the types of outfits that you can purchase for different occasions.\n\nSmart men’s clothing - At Myntra you will find myriad options in smart formal shirts and trousers, cool T-shirts and jeans, or kurta and pyjama combinations for men. Wear your attitude with printed T-shirts. Create the back-to-campus vibe with varsity T-shirts and distressed jeans. Be it gingham, buffalo, or window-pane style, checked shirts are unbeatably smart. Team them up with chinos, cuffed jeans or cropped trousers for a smart casual look. Opt for a stylish layered look with biker jackets. Head out in cloudy weather with courage in water-resistant jackets. Browse through our innerwear section to find supportive garments which would keep you confident in any outfit.\nTrendy women’s clothing - Online shopping for women at Myntra is a mood-elevating experience. Look hip and stay comfortable with chinos and printed shorts this summer. Look hot on your date dressed in a little black dress, or opt for red dresses for a sassy vibe. Striped dresses and T-shirts represent the classic spirit of nautical fashion. Choose your favourites from among Bardot, off-shoulder, shirt-style, blouson, embroidered and peplum tops, to name a few. Team them up with skinny-fit jeans, skirts or palazzos. Kurtis and jeans make the perfect fusion-wear combination for the cool urbanite. Our grand sarees and lehenga-choli selections are perfect to make an impression at big social events such as weddings. Our salwar-kameez sets, kurtas and Patiala suits make comfortable options for regular wear.\nFashionable footwear - While clothes maketh the man, the type of footwear you wear reflects your personality. We bring you an exhaustive lineup of options in casual shoes for men, such as sneakers and loafers. Make a power statement at work dressed in brogues and oxfords. Practice for your marathon with running shoes for men and women. Choose shoes for individual games such as tennis, football, basketball, and the like. Or step into the casual style and comfort offered by sandals, sliders, and flip-flops. Explore our lineup of fashionable footwear for ladies, including pumps, heeled boots, wedge-heels, and pencil-heels. Or enjoy the best of comfort and style with embellished and metallic flats.\nStylish accessories - Myntra is one of the best online shopping sites for classy accessories that perfectly complement your outfits. You can select smart analogue or digital watches and match them up with belts and ties. Pick up spacious bags, backpacks, and wallets to store your essentials in style. Whether you prefer minimal jewellery or grand and sparkling pieces, our online jewellery collection offers you many impressive options.\nFun and frolic - Online shopping for kids at Myntra is a complete joy. Your little princess is going to love the wide variety of pretty dresses, ballerina shoes, headbands and clips. Delight your son by picking up sports shoes, superhero T-shirts, football jerseys and much more from our online store. Check out our lineup of toys with which you can create memories to cherish.\nBeauty begins here - You can also refresh, rejuvenate and reveal beautiful skin with personal care, beauty and grooming products from Myntra. Our soaps, shower gels, skin care creams, lotions and other ayurvedic products are specially formulated to reduce the effect of aging and offer the ideal cleansing experience. Keep your scalp clean and your hair uber-stylish with shampoos and hair care products. Choose makeup to enhance your natural beauty.\n\nMyntra is one of the best online shopping sites in India which could help transform your living spaces completely. Add colour and personality to your bedrooms with bed linen and curtains. Use smart tableware to impress your guest. Wall decor, clocks, photo frames and artificial plants are sure to breathe life into any corner of your home.\n\nAFFORDABLE FASHION AT YOUR FINGERTIPS\n\nMyntra is one of the unique online shopping sites in India where fashion is accessible to all. Check out our new arrivals to view the latest designer clothing, footwear and accessories in the market. You can get your hands on the trendiest style every season in western wear. You can also avail the best of ethnic fashion during all Indian festive occasions. You are sure to be impressed with our seasonal discounts on footwear, trousers, shirts, backpacks and more. The end-of-season sale is the ultimate experience when fashion gets unbelievably affordable.\n\nMYNTRA INSIDER\n\nEvery online shopping experience is precious. Hence, a cashless reward-based customer loyalty program called Myntra Insider was introduced to enhance your online experience. The program is applicable to every registered customer and measures rewards in the form of Insider Points.\n\nThere are four levels to achieve in the program, as the Insider Points accumulate. They are - Insider, Select, Elite or Icon. Apart from offering discounts on Myntra and partner platform coupons, each tier comes with its own special perks.\n\nInsider\n\nOpportunity to master any domain in fashion with tips from celebrity stylists at Myntra Masterclass sessions.\nCurated collections from celeb stylists.\n\nElite\n\nVIP access to special sale events such as the End of Reason Sale (EORS) and product launches.\nExclusive early access to Limited Edition products\n\nIcon\n\nChance to get on guest lists for special events.\nMyntra Studio - The Personalised Fashion Feed You Wouldn’t Want To Miss Out On\n\nThe world wide web is evolving at a relentless pace, and with an accelerated growth each passing year, there is bound to be an overwhelming surge of online content. It was for this very reason that personalisation of search feeds was proposed as a solution to combat the overload of irrelevant information.\n\nSeveral social media platforms such as Facebook and Instagram along with various online shopping websites have chosen to help filter content, increasing user engagement, retention and customer loyalty.\n\nMyntra is one such online shopping website that joins the list of platforms that help curate a personalised fashion feed. Named theMyntra Studio, this personalised search feed brings you the latest men and women’s fashion trends, celebrity styles, branded content and daily updates from your favourite fashion labels.\n\nIf you are wondering how impactful Myntra Studio can be, we are listing out five perks of having a rich, meaningful, and personalised fashion feed in your life.\n\nKeep Up With What Your Favourite Fashion Icons Are Upto\n\nThe #OOTD, AKA outfit of the day hashtag trend has been a rage among fashion bloggers and stylists. The whole concept of building an outfit from scratch and showcasing it to a huge community of enthusiasts using the hashtag has helped individuals with understanding trends and making suitable for daily wear.\n\nImagine if you could keep up with every piece of clothing and accessory worn by the fashion icons you look upto. From Sonam Kapoor to Hailey Baldwin Bieber, Myntra Studio has a ‘Stories’ feature to help track celebrity fashion trends, exploring details such as their outfit of the day. This way, you would not ever miss out on the latest celebrity fashion trends, from all around the world.\n\nQuick Fashion Tip And Tricks\n\nWhether it is draping a saree into a dhoti style, wearing the right lingerie under certain dresses or discovering multiple uses out of heavy ethnic wear, Myntra Studio will help you acquire some unique and useful fashion hacks. Each hack is designed with the intention to help you get the best wear out of everything in your wardrobe.\n\nUpdates on What Is Trending and New Product Launches\n\nSince fast fashion seems to be extremely hard to keep up with these days, a quick update on what is trending in accessories, clothing and footwear would certainly be of great help. Myntra Studio helps you stay connected to the most beloved and sought after brands such as Puma, Coverstory, The Label Life and so many more.\n\nYour feed keeps you updated with stories of what the brands are creating including clothing, footwear and jewellery, along with their new seasonal collections.\n\nExplicit Step-By-Step Beauty Routines From Experts\n\nJust like fashion, the beauty community keeps on growing, and with brands such as Huda Beauty, MAC and the latest Kay Beauty by Katrina Kaif, are constantly coming up with mind-blowing products. Whether it is creating a no-makeup look, different winged eyeliners, do-it-yourself facial masks and other personal care beauty routines, Myntra Studio is here for you.\n\nCelebrity Confessions And A Look Into Their Lives\n\nA bonus feature that Myntra Studio has in store for you is celebrity confessions and a peek into their lives. So, Myntra helps you stay connected to your most beloved celebrities in a matter of clicks.\n\nIf you are very particular when it comes to the content you wish to view and engage with on social media, the ability to intricately filter content helps achieve that. Applying the same formula for hardcore fashion lovers and shoppers, Myntra Studio brings you a daily fashion fix incorporating everything that you love, all at one place. Sign up on Myntra today and start organising your fashion feed, just the way you want to.\n\nMYNTRA APP\n\nMyntra, India’s no. 1 online fashion destination justifies its fashion relevance by bringing something new and chic to the table on the daily. Fashion trends seem to change at lightning speed, yet the Myntra shopping app has managed to keep up without any hiccups. In addition, Myntra has vowed to serve customers to the best of its ability by introducing its first-ever loyalty program, The Myntra Insider. Gain access to priority delivery, early sales, lucrative deals and other special perks on all your shopping with the Myntra app. Download the Myntra app on your Android or IOS device today and experience shopping like never before!\n\nHISTORY OF MYNTRA\n\nBecoming India’s no. 1 fashion destination is not an easy feat. Sincere efforts, digital enhancements and a team of dedicated personnel with an equally loyal customer base have made Myntra the online platform that it is today. The original B2B venture for personalized gifts was conceived in 2007 but transitioned into a full-fledged ecommerce giant within a span of just a few years. By 2012, Myntra had introduced 350 Indian and international brands to its platform, and this has only grown in number each passing year. Today Myntra sits on top of the online fashion game with an astounding social media following, a loyalty program dedicated to its customers, and tempting, hard-to-say-no-to deals.\n\nThe Myntra shopping app came into existence in the year 2015 to further encourage customers’ shopping sprees. Download the app on your Android or IOS device this very minute to experience fashion like never before\n\nSHOP ONLINE AT MYNTRA WITH COMPLETE CONVENIENCE\n\nAnother reason why Myntra is the best of all online stores is the complete convenience that it offers. You can view your favourite brands with price options for different products in one place. A user-friendly interface will guide you through your selection process. Comprehensive size charts, product information and high-resolution images help you make the best buying decisions. You also have the freedom to choose your payment options, be it card or cash-on-delivery. The 14-day returns policy gives you more power as a buyer. Additionally, the try-and-buy option for select products takes customer-friendliness to the next level.\n\nEnjoy the hassle-free experience as you shop comfortably from your home or your workplace. You can also shop for your friends, family and loved-ones and avail our gift services for special occasions.",
+  "policies": [
+    {
+      "topic": "returns",
+      "title": "Returns Policy",
+      "content": "Myntra offers a 14-day returns policy on most products. You can return items within 14 days of delivery for a full refund. Products must be unused, unwashed, and with all tags attached. To initiate a return, go to \"My Orders\" on the Myntra app or website, select the item you want to return, and follow the prompts. A pick-up will be scheduled at your address, or you can self-ship the item. Refunds are processed within 5-7 business days after the returned item is received and inspected.",
+      "keywords": [
+        "return",
+        "returns",
+        "refund",
+        "refunds",
+        "replace",
+        "exchange",
+        "14 days",
+        "return policy",
+        "return item"
+      ]
+    },
+    {
+      "topic": "cancellation",
+      "title": "Cancellation Policy",
+      "content": "Myntra allows order cancellation before the item is shipped. You can cancel from \"My Orders\" section on the app or website. If the order has already been shipped, cancellation is not possible — you will need to refuse delivery or initiate a return after receiving it. For prepaid orders, cancellation refunds are processed within 5-7 business days. For COD orders, no payment is deducted.",
+      "keywords": [
+        "cancel",
+        "cancellation",
+        "cancel order",
+        "cancel item",
+        "cancelled"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "title": "Shipping Policy",
+      "content": "Myntra offers free shipping on orders above ₹499. Orders below ₹499 have a standard shipping fee of ₹49. Standard delivery takes 3-7 business days depending on your location. Express delivery options are available for select pincodes at an additional charge. You can track your order status from the \"My Orders\" section.",
+      "keywords": [
+        "shipping",
+        "delivery",
+        "free shipping",
+        "delivery time",
+        "shipping fee",
+        "ship",
+        "dispatch"
+      ]
+    },
+    {
+      "topic": "payment",
+      "title": "Payment & Refund Policy",
+      "content": "Myntra accepts multiple payment methods: Credit/Debit Cards, Net Banking, UPI (Google Pay, PhonePe, Paytm), EMI options, and Cash on Delivery (COD). Refunds for prepaid orders are processed to the original payment method within 5-7 business days after the return is accepted. COD refunds are processed to your Myntra Wallet or bank account. Track refund status from \"My Orders\" > \"Returns\" section.",
+      "keywords": [
+        "payment",
+        "refund",
+        "payment method",
+        "cod",
+        "cash on delivery",
+        "emi",
+        "upi",
+        "net banking",
+        "pay"
+      ]
+    },
+    {
+      "topic": "quality",
+      "title": "100% Original Guarantee",
+      "content": "Myntra guarantees 100% original products. Every item sold on Myntra is sourced directly from brands or authorized distributors. If you receive a counterfeit or defective product, you are eligible for a full refund under the \"Quality Guarantee\" policy. Contact customer support immediately at the grievance redressal portal for such cases.",
+      "keywords": [
+        "original",
+        "guarantee",
+        "quality",
+        "counterfeit",
+        "defective",
+        "damaged",
+        "fake",
+        "genuine",
+        "authentic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+node_modules/
+*.pdf
+server_output.txt
+.DS_Store
